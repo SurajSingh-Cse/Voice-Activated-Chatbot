@@ -125,9 +125,11 @@ dotenv (for API key)
 
 ## Author
 ---
--Suraj Singh
--LinkedIn:www.linkedin.com/in/singh-suraj-negi
--GitHub: https://github.com/SurajSingh-Cse/Voice-Activated-Chatbot
+"Suraj Singh"
+
+"LinkedIn:www.linkedin.com/in/singh-suraj-negi"
+
+"GitHub: https://github.com/SurajSingh-Cse/Voice-Activated-Chatbot"
 
 ---
 
