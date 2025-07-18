@@ -30,11 +30,15 @@ Make sure your microphone and internet are working properly.
 
 ## Project Structure
 
-main file.py
-openai_request.py
-user_config.env
-requirements.txt
-README.md
+"main file.py"
+
+"openai_request.py"
+
+"user_config.env"
+
+"requirements.txt"
+
+"README.md"
 
 ## Voice Commands Examples
 "play music"
@@ -52,14 +56,6 @@ README.md
 "read note"
 
 "exit"
-
-## Author
-```
--Suraj Singh
--LinkedIn:www.linkedin.com/in/singh-suraj-negi
--GitHub: https://github.com/SurajSingh-Cse/Voice-Activated-Chatbot
-
-```
 
 
 ---
@@ -125,6 +121,15 @@ openai
 comtypes
 
 dotenv (for API key)
+
+
+## Author
+---
+-Suraj Singh
+-LinkedIn:www.linkedin.com/in/singh-suraj-negi
+-GitHub: https://github.com/SurajSingh-Cse/Voice-Activated-Chatbot
+
+---
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
