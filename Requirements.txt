@@ -1,0 +1,8 @@
+pyttsx3
+speechrecognition
+wikipedia
+pywhatkit
+pyautogui
+plyer
+openai
+comtypes
