@@ -67,11 +67,11 @@ README.md
 ## ⚙️ Setup Instructions
 
 ### ✅ Prerequisites
-
+---
 - Python 3.8+
 - A working microphone
 - Works best on **Windows** (due to TTS engine and COM support)
-
+---
 ### 🧪 Install Required Packages
 
 ```
@@ -91,7 +91,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 <img width="1920" height="1080" alt="screenshot" src="https://github.com/user-attachments/assets/11d9ca3b-cfa2-4042-a798-e78b54a24fe3" />
 
 ## Voice Commands Supported
-
+~~~
 Category            Example Commands
 Greetings	        "hello jarvis", "good morning"
 Music	            "play music"
@@ -101,7 +101,7 @@ Web              	"open youtube", "search google", "wikipedia"
 System Control	  "shutdown", "restart", "lock screen"
 AI	              "ask ai what is machine learning"
 Exit            	"exit", "quit"
-
+~~~
 ## 🧠 AI Integration
 This project supports GPT interaction using OpenAI. You can ask it intelligent questions and get AI-generated answers via:
 ```
