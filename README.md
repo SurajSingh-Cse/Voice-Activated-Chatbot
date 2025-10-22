@@ -1,9 +1,7 @@
 # VOICE ACTIVATED AI CHATBOT
 
-![Uploading ChatGPT Image Oct 22, 2025, 07_32_06 PM.png…]()
-
-
 A Python-based voice assistant inspired by J.A.R.V.I.S. from Iron Man. It responds to voice commands and performs actions like playing music, opening apps, searching Google/Wikipedia, taking notes, and even asking questions to OpenAI's GPT.
+![Uploading ChatGPT Image Oct 22, 2025, 07_32_06 PM.png…]()
 
 ## 🚀 Features
 
